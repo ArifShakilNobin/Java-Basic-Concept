@@ -15,4 +15,8 @@
 5. Abstract এটা কোন access modifier না 
 6. Abstract method কখনো **static and private.** হতে পারবে না
 7. Abstract class এর কোন object তৈরি করা যায় না । Abstract class কে যেই Non-Abstract class inherit করে সেই class এর object তৈরি করে কাজ করতে হয় ।
-8. 
+
+When to use Abstract class & Abstract method?
+1. যখন আমরা একটা method দিয়ে বিভিন্ন ধরনের কাজ করতে চাই তখন use করতে হয় । 
+মেথড যদি একই নাম একই return type থাকে তাও যদি ভিন্ন ধরনের কাজ করতে চাই তখন এটা কাজে আসে । 
+2. 
