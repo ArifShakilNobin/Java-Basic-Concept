@@ -5,6 +5,7 @@
 3. Hashing HashCode() coming from the object class
  Hashcode() ----> Hashing
 4. same data(key, value) can be store
+5. HashKey Null = 0
 
 
 Map<String,Integer> marks = new HashMap<String,Integer>();
