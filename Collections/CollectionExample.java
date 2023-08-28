@@ -7,7 +7,7 @@ import java.util.List;
 
 public class CollectionExample {
    public static void main(String[] args) {
-      java.util.Collection<String> collections = new ArrayList<>();
+      Collection<String> collections = new ArrayList<>();
       collections.add("a");
       collections.add("b");
 
